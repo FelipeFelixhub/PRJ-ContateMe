@@ -11,4 +11,4 @@
 
 <img src= "image-1.png" width="600px">
 
-#### Os links direcionam para o meu github, meu perfil no Linkedin e acesso ao meu currículo.
+#### Os links direcionam para o meu perfil no github, Linkedin e acesso ao currículo.
