@@ -6,6 +6,7 @@
 ### Tecnologias:
 - HTML
 - CSS
+- Javascript
 
 ## Página inicial
 
