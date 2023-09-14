@@ -4,11 +4,11 @@
 
 ## Página inicial
 
-<img src= "image.png" width="300px">
+<img src= "image.png" width="600px">
 
 
 ## Página com links para contato
 
-<img src= "image-1.png" width="300px">
+<img src= "image-1.png" width="600px">
 
 #### Os links direcionam para o meu github, meu perfil no Linkedin e acesso ao meu currículo.
